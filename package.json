@@ -1,7 +1,7 @@
 {
   "name": "rename-file",
   "version": "1.0.0",
-  "description": "",
+  "description": "批量重命名文件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
